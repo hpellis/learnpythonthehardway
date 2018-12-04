@@ -1,0 +1,7 @@
+print ("Hello world")
+print ("Hello again")
+print ("I like typing")
+print ("oh boy")
+print ('yay. printing')
+print ("I'd much rather you 'not'.")
+print ('I said "don\'t touch this')
